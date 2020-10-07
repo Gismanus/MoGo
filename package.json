@@ -1,0 +1,40 @@
+{
+  "name": "podelka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "del": "^5.1.0",
+    "normalize.css": "^8.0.1",
+    "reset-css": "^5.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pxtorem": "^3.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.1%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 2 firefox version",
+      "last 2 safari version",
+      "last 2 ie version"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michail",
+  "license": "ISC",
+  "keywords": "",
+  "description": ""
+}

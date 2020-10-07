@@ -1,0 +1,16 @@
+@font-face {
+    font-family: KaushanScript-Reqular; /* Имя шрифта */
+    src: url(../../static/fonts/KaushanScript-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Black; /* Имя шрифта */
+    src: url(../../static/fonts/Montserrat-Black.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Bold; /* Имя шрифта */
+    src: url(../../static/fonts/Montserrat-Bold.ttf); /* Путь к файлу со шрифтом */
+}
+@font-face {
+    font-family: Montserrat-Regular; /* Имя шрифта */
+    src: url(../../static/fonts/Montserrat-Regular.ttf); /* Путь к файлу со шрифтом */
+}
